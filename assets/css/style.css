@@ -1,0 +1,202 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+ul{
+	list-style: none;
+	color: white;
+	margin: auto;
+}
+li{
+	margin: 	auto;
+	display: inline;
+	padding-right:50px;
+	padding-top: 	20px;
+	color: white;
+}
+a{
+	color: 	white;
+	text-decoration: 	none;	
+}
+.main-container
+{
+	width: 100%;
+	height: 100%;
+	
+}
+.upper-container{
+	width: 	1400px;
+	height: 	660px;
+	margin: 	auto;							
+	background-image: 		url(../images/uppercontainerpic.jpg);
+	background-position: 	center;	
+	background-repeat: 	no-repeat;	
+	background-size: 1500px,450px;
+	
+}	
+.menubarcontainer{
+	width: 	1090px;
+ 		background-position: center;
+	margin: 	auto;	
+	padding-top: 	18px;
+	color: white;
+	background-color: black;
+	height: 90px;
+
+}
+.logo{
+
+	margin: auto;	
+	float: 	left;	
+	width: 	110px;
+	height: 	90px;
+	padding-top: 	20px;
+	margin-left:  20px;
+	background-image: 	url(../images/logo.jpg);
+	background-repeat: 	no-repeat;	
+
+}
+.socialsite{
+	float: 	left;	
+	margin: 	auto;	
+	width: 	250px;
+	padding-top: 	18px;
+	margin-left:  20px;
+	
+}
+.menubar{
+	float: 	left;
+	width: 	580px;
+	margin-left: 100px;
+	padding-top: 	20px;
+}
+.righttextinuppercontainer{
+	clear: both;
+	margin-right: 200px;
+	margin-top: 200px;
+	float: right;
+	width: 200px;
+	height: 200px;
+	background-color: #74C2D9;
+
+}
+.pfontfirst{
+
+	padding-top: 50px;
+	text-align: center;
+	font-weight: bold;
+	font-size: 18px;
+}
+.middlecontainer{
+
+	margin: auto;
+	width: 1400px;
+	margin-top: 2px;
+	height: 300px;
+	background-color: #E8E8E8;
+
+
+}
+.about{
+	width: 420px;
+	padding-left: 40px;
+	float: left;
+
+}
+.gap
+{
+	padding-top: 20px;
+	font-size: 20px;
+	color: black;
+	padding-bottom: 20px;
+	text-align: center;
+}
+.award{
+	width: 410px;
+	padding-left: 20px;
+	float: left;
+
+}
+.community{
+	width: 380px;
+	padding-left: 20px;
+	margin-bottom: 80px;
+	float: left;
+
+
+}
+.buttonsection{
+	clear: both;
+	width: 600px;
+	margin: auto;
+	margin-right: 258px;
+}
+.buttonOne
+{	
+	clear: both;
+	width: 105px;
+	margin-top: 5px;
+	padding: 5px;
+	color: white;
+	background-color: #74C4DB;
+	font-size: 18px;
+	float: left;
+	text-align: center;     
+}
+.buttonTwo
+{		
+	float: left;	
+	margin-left: 35px;
+	width: 105px;
+	margin-top: 5px;
+	padding: 5px;
+	color: white;
+	border: 0px;
+	background-color: #9A9A9A;
+	font-size: 18px;
+	text-align: center;
+}
+.middlecontainerTwo{
+	clear: both;
+	width: 1400px;
+	margin: auto;
+	background-color:  #E3E3E3;
+	
+}
+.lastesttournament{
+	padding-top: 40px;
+	width: 1000px;
+	margin: auto;
+
+}
+.viewpic1{
+	width: 240px;
+	background-image: url(../images/logo.jpg);
+	background-repeat: no-repeat;
+	float: left;
+	
+	height: 180px;
+}
+.viewpic2{
+	width: 240px;
+	background-image: url(../images/logo.jpg);
+	background-repeat: no-repeat;
+	margin-left: 20px; 
+	float: left;
+	height: 180px;
+}
+.viewpic3{
+	width: 240px;
+	background-image: url(../images/logo.jpg);
+	background-repeat: no-repeat;
+	float: left;
+	height: 180px;
+}
+.viewpic4{
+	width: 240px;
+	background-image: url(../images/logo.jpg);
+	background-repeat: no-repeat;
+	margin-left: 20px; 
+	float: left;
+	height: 180px;
+}
